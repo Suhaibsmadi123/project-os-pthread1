@@ -1,0 +1,4 @@
+﻿  thread1.cpp
+C:\Users\Platinum\Desktop\subject\OS\thread1\thread1.cpp(79,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Platinum\Desktop\subject\OS\thread1\thread1.cpp(172,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  thread1.vcxproj -> C:\Users\Platinum\Desktop\subject\OS\thread1\x64\Debug\thread1.exe
